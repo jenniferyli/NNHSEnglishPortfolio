@@ -1,0 +1,57 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.MainHeading {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.collapse {
+  justify-content: right;
+}
+
+.navbar {
+  height: 20vh;
+  padding: 5% !important;
+  height: 100%;
+}
+
+.row {
+  height: 80vh;
+  align-items: center;
+}
+
+iframe {
+  width: 100%;
+  padding: 0;
+  margin: 0;
+}
+
+.yearHeading {
+  height: 80vh;
+  text-align: center;
+}
+
+.headingCaption {
+  display: block;
+  font-size: 18px;
+  margin-top: 5%;
+  font-weight: 200;
+}
+/* 
+.content {
+  padding: 0 20vh;
+} */
+
+.AllSoulsImg {
+  width: 100%;
+}
+
+.APNotes {
+  /* height: 500px; */
+  width: 100%;
+}
